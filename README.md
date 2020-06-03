@@ -45,27 +45,41 @@ Con esta información se pueden generar estadísticos descriptivos que podrán c
 
 ## Dataset
 
+- **Sitios:** Centros Operativos de las empresas de Transporte. Mas de 300. 
+- **Tanques de almacenamiento:** Infraestructura de almacenamiento en los Sitios de las empresas de Transporte. Mas de 1000.
+- **Picos de despacho:** Infraestructura de despacho en los Sitios de las empresas de Transporte. Mas de 500.
+- **Productos :** Productos almacenados en los Sitios de las empresas de Transporte.
+- **Transacciones:** Transacciones de consumo de combustibles, por unidad, por tanque, por pico. 100K-rows/mes. 
+- **Historiales:** Historial de inventarios de los tanques de los centros operativos de las empresas de Transporte. 2M-rows/mes.
 
 ## Hitos
 
-### Análisis y visualización de datos
+### Análisis y visualización de datos: 22/6
+
+- Estadistica descriptiva de consumo y administración de inventarios de combustibles fósiles. 
+- Agregaciones y Graficos utiles para el transportista en cuanto al uso, eficiencia y anomalías. 
+
+### Análisis exploratorio y curación de datos: 19/7
+
+- Análisis de las series temporales, curación y ajustes sobre los datos recolectados. 
+- Matching entre historiales y transacciones. 
+- Detección de anomalías y outliers por métodos tradicionales.
+
+### Introducción al aprendizaje automático: 16/8
+
+- Forecasting de consumos e inventarios.
+- Analisis de opciones de uso de herramientas de Machine Learning para alcanzar los objetivos mencionados.
+
+### Aprendizaje Supervisado: 13/9
+
+- A definir de acuerdo a la materia introductoria y a los objetivos planteados.
+
+### Aprendizaje No Supervisado: 27/9
+
+- A definir de acuerdo a la materia introductoria y a los objetivos planteados.
+
+### PRESENTACIÓN: 6/11/2020 – 7/11/2020
 
 
 
 
-### Análisis exploratorio y curación de datos
-
-
-
-
-### Introducción al aprendizaje automático
-
-
-
-
-### Aprendizaje Supervisado
-
-
-
-
-### Aprendizaje No Supervisado
